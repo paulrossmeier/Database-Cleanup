@@ -99,6 +99,6 @@ rm -rf /tmp/not_empty_collections
 rm -rf /tmp/instance_list
 rm -rf /tmp/keep_databass
 rm -rf /tmp/delete_databases
-sleep 5
+sleep 2
 
 exit 0
